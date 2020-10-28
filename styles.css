@@ -109,3 +109,12 @@ body{
 .wrapper .main_content .info div{
   margin-bottom: 20px;
 }
+
+.LogoOfByeWaste img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}
