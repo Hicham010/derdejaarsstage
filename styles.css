@@ -132,7 +132,8 @@ body {
 
 .wrapper .main_content .info {
   margin: 20px;
-  text-align: center;
+  margin-left: 150px;
+  text-align: left;
   color: black;
   line-height: 25px;
 }
