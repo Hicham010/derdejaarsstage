@@ -59,7 +59,7 @@ body {
   background-color: #a2c393;
 }
 
-.wrapper .leftBar{
+.wrapper .leftBar {
   width: 200px;
   height: auto;
   background: #6aa74f;
@@ -84,7 +84,6 @@ body {
 .wrapper .leftBar ul li a {
   color: black;
   display: block;
-
 }
 
 .currentLink {
@@ -200,16 +199,16 @@ body {
   text-align: center;
 }
 
-.wrapper .main_content .info img{
+.wrapper .main_content .info img {
   width: 50%;
   height: 50%;
 }
 
-.wrapper .main_content .floatingImage{
+.wrapper .main_content .floatingImage {
   float: right;
 }
 
-.wrapper .main_content .floatingImage figcaption{
+.wrapper .main_content .floatingImage figcaption {
   width: 250px;
   right: 50px;
 }

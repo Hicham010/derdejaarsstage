@@ -147,20 +147,20 @@ body {
   text-align: center;
 }
 
-.wrapper .main_content .info img{
+.wrapper .main_content .info img {
   width: 50%;
   height: 50%;
 }
 
-.wrapper .main_content .floatingImage{
+.wrapper .main_content .floatingImage {
   width: 400px;
   float: right;
 }
 
-.wrapper .main_content .floatingImage figcaption{
+.wrapper .main_content .floatingImage figcaption {
   text-align: center;
 }
 
-.wrapper .main_content .floatingImage figure{
+.wrapper .main_content .floatingImage figure {
   float: right;
 }
